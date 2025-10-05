@@ -1,0 +1,28 @@
+[[
+  {
+    "id": 1,
+    "title": "Study JavaScript",
+    "status": "pending"
+  },
+  {
+    "id": 2,
+    "title": "Clean the room",
+    "status": "in progress"
+  },
+  {
+    "id": 3,
+    "title": "Buy groceries",
+    "status": "done"
+  },
+  {
+    "id": 4,
+    "title": "Play video games",
+    "status": "pending"
+  },
+  {
+    "id": 5,
+    "title": "Go for a run",
+    "status": "in progress"
+  }
+]
+]
